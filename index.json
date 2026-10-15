@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "sklearn-pandas",
+  "versions": [
+    {
+      "commit": "c9db2d6dcbf515eade751073f43318e43cae5177",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:34:24.714205+00:00"
+    }
+  ]
+}
