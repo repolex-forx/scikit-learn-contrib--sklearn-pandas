@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/sklearn-pandas/commit/c9db2d6dcbf515eade751073f43318e43cae5177",
       "git:hexsha": "c9db2d6dcbf515eade751073f43318e43cae5177",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/sklearn-pandas/commit/69191c9bb9da0026d8f45710f9abfd612ec8271d",
